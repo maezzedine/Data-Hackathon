@@ -13,8 +13,13 @@ The recommendations include:
 - Average number of projects completed per candidate
 - Average number of certificates earned per candidate
 
+# Mockup
+<div class="row">
+	<img width="49%" src="https://github.com/maezzedine/Data-Hackathon/blob/master/assets/mockup%20-%20screen%201.jpeg?raw=true" />
+	<img width="49%" src="https://github.com/maezzedine/Data-Hackathon/blob/master/assets/mockup%20-%20screen%203.jpeg?raw=true" />
+</div>
 
-# Sample Queries
+# MVP Sample Queries
 ## Sample Query 1:
 Input: One field: Entrepreneur
 Output: 
